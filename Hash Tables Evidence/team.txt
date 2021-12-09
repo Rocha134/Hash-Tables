@@ -1,0 +1,9 @@
+Francisco Rocha Juárez A01730560: Creación de la función HASH.
+Creación de la función ReadFile.
+
+Iker Guerrero González A00830026: Creación de la función search.
+Creación de la función SortIps.
+Creación de la función IpCleaner.
+
+Aldo Mauricio Cruz Lozada A01732372: Creación de la estructura dirección.
+Implementación del main. Comentar complejidades.
